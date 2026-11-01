@@ -1,6 +1,6 @@
 {
     "type": "package",
-    "name": "hanshs474/kavel",
+    "name": "hanshs474/kavel-elm",
     "summary": "Kavel free AI video and image generator helpers",
     "license": "MIT",
     "version": "1.0.0",
